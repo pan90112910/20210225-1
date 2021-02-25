@@ -40,3 +40,14 @@ public class HelloWorld3{
 Hello Mydeargreatteacher
 Hello World
 ```
+```
+public class Test1{
+
+      static public void main(String []args){
+	for(int x=1;x<args.length;x++){
+        System.out.print(args[x]+" ");
+	}
+     }
+}
+```
+
