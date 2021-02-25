@@ -1,6 +1,18 @@
 # 20210225-1
 homewordHelloWORLD
 ```
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+     }
+}
+```
+```
+Hello World
+```
+
+```
 public class HelloWorld2{
 
      public static void main(String []args){
@@ -15,7 +27,7 @@ Hello MydeargreatteacherHello World
 ```
 
 ```
-public class HelloWorld21{
+public class HelloWorld3{
 
      public static void main(String []args){
         System.out.print("Hello ");
